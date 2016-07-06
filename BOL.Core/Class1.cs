@@ -9,5 +9,6 @@ namespace BOL.Core
     class Class1
     {
         int x;//Added
+        int y;//Sachi
     }
 }
